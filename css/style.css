@@ -7,11 +7,17 @@ BODY {
 	FONT-FAMILY: arial
 }
 
+/* Nav bar bootstrape */
+
 .navbar-custom {
-    color: #d35400;
-    background-color: #CC3333;
+    color: #FFFFFF;
+    background-color: #d35400;
 }
 
+.footer {
+    color: #FFFFFF;
+    background-color: #2c3e50;
+}
 	
 table {font-size: 9pt; line-height: 13pt; font-family: arial; color:#ffffff;}
 td {font-size: 9pt; /*line-height: 15pt;*/ font-family: arial; color:#555555;}
