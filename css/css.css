@@ -1,0 +1,177 @@
+/* CSS Document */
+
+BODY {
+	FONT-SIZE: 9pt;
+	COLOR: #000;
+	LINE-HEIGHT: 1.5;
+	FONT-FAMILY: arial
+}
+	.style1 {
+		color: #FFFFFF;
+		font-weight: bold;
+	}
+	.style2 {
+		color: #1360a9;
+		font-weight: bold;
+		font-size: 12pt;
+	}
+	.style3 {color: #FFFFFF}
+	body,td,th {
+		color: #FFFFFF;
+	}
+	.style5title {color: #000000;
+		font-weight: bold;
+	}
+
+	.style4 {
+		color: #000000;
+		font-weight: normal;
+		}
+	.style6 {
+		color: #000000;
+		font-weight: bold;
+	
+	.style7tel {color: #FFFFFF;
+		font-weight: bold;
+		}
+	.style8 {color: #1360a9;
+			font-weight: bold;
+			font-size: 25pt;
+	
+}
+table {font-size: 9pt; line-height: 13pt; font-family: arial; color:#ffffff;}
+td {font-size: 9pt; line-height: 15pt; font-family: arial; color:#555555;}
+
+INPUT {
+	FONT-SIZE: 9pt; COLOR: #666666; LINE-HEIGHT: 1.5; FONT-FAMILY: arial
+}
+SELECT {
+	FONT-SIZE: 9pt; COLOR: #666666; LINE-HEIGHT: 1.5; FONT-FAMILY: arial
+}
+TEXTAREA {
+	FONT-SIZE: 9pt; COLOR: #666666; LINE-HEIGHT: 1.5; FONT-FAMILY: arial
+}
+img {
+	border:0px;
+}
+  
+   .floatright {
+	float: right;
+	padding-left: 15px;
+	} 
+
+    A:link {color:#black; text-decoration:none}
+    A:visited {color:#666666; text-decoration:underline}
+    A:active {color:#666666; text-decoration:none}
+    A:hover {color:#666666; text-decoration:none}
+    
+    .href_b:link {color:#999999;text-decoration:none}
+    .href_b:visited {color:#999999;text-decoration:none}
+    .href_b:active {color:#999999;text-decoration:none}
+    .href_b:hover {color:#999999;text-decoration:none}
+	
+	 .w:link {color:#ffffff;text-decoration:none}
+    .w:visited {color:#ffffff;text-decoration:none}
+    .w:active {color:#ffffff;text-decoration:none}
+    .w:hover {color:#ffffff;text-decoration:none}
+
+	.h_link:link {color:#0079c1;text-decoration:none}
+    .h_link:visited {color:#0079c1;text-decoration:none}
+    .h_link:active {color:#0079c1;text-decoration:none}
+    .h_link:hover {color:#0079c1;text-decoration:underline}
+
+   
+		.sub {
+	font-size:11pt;
+	font-family:arial;
+	color: #000066;
+	line-height: 20px;
+	font-weight: bold;
+
+
+}
+		.title {
+	font-size:15pt;
+	line-height:25px;
+	font-family:arial;
+	color: #1360a9;
+	font-weight: bold;
+
+}
+		.title_p {
+	font-size:11pt;
+	line-height:25px;
+	font-family:arial;
+	color: #ffffff;
+	font-weight: bold;
+
+}
+
+
+		.link{
+	font-size:9pt;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #FFFFFF;
+	line-height: 20px;
+}
+		.link_m{
+	font-size:9pt;
+	font-family:arial;
+	font-weight: bold;
+	color: 0079c1;
+	line-height: 25px;
+}
+	
+		.copy {
+	font-size:7pt;
+	font-family:verdana;
+	color: #999999;
+	font-weight: bold;
+	line-height: 23px;
+
+}
+	
+		.sub_t {
+	font-size:11pt;
+	font-family:arial;
+	color: 868686;
+	font-style: normal;
+	font-weight: bold;
+	line-height: 23px;
+
+
+}
+		.tel {
+	font-size:14pt;
+	font-family:arial;
+	color: ffffff;
+	font-style: normal;
+	font-weight: bold;
+	line-height: 23px;
+
+
+}
+	
+	.fonts_2 {font-size:9pt; line-height:22px ; font-family:"Arial"}
+	    A:link {color:#1ab7ea; text-decoration:underline}
+	    A:visited {color:#1ab7ea; text-decoration:underline}
+	    A:active {color:#1ab7ea; text-decoration:underline}
+	    A:hover {color:#1ab7ea; text-decoration:underline}
+	    
+	    
+	    
+</STYLE>
+.welcome {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 17px;
+	line-height: 25px;
+	color: #787878;
+}
+.welcome_a {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 20px;
+	line-height: 27px;
+	color: #787878;
+	font-style: italic;
+}
